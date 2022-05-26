@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-reposit-rio-malu
+# dio-desafio-github-primeiro-repositorio-malu
 meu primeiro repositório pelo desafio de projetos sobre GiT/GitHub pelo DIO. 
